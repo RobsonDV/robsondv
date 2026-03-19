@@ -1,28 +1,23 @@
-# Bem vindo(a) ao meu perfil
+# 👋 Olá, eu sou o Robson!
 
-Ola eu sou o Robson Costa, moro em Caxias do Sul no RS, sou um aspirante a programador, mas em pouco tempo tudo isso vai mudar 😉
+🚀 Iniciando minha jornada no desenvolvimento, com muita vontade de aprender, evoluir e construir projetos reais.
 
-![204893254_1982859351871702_3761194219665952072_n](https://user-images.githubusercontent.com/119622906/212995873-2c896094-f049-4686-94f8-5eb238377d50.jpg)
+💡 Atualmente focado em:
+- Aprender programação na prática
+- Desenvolver projetos próprios
+- Evoluir todos os dias, um passo de cada vez
 
-## Meus Hobbies
+🎧 Vibecoding: gosto de codar com foco, consistência e no flow — transformando ideias em código.
 
-- Ouvir música
-- jogar video game
-- Comer (hahahaha)
-- Estudar muito
-- Ver séries
+🛠️ Tecnologias em aprendizado:
+- Python
+- JavaScript
+- Automações (N8N, APIs)
+- Web (HTML, CSS)
 
-## Atualmente estudando 
+📈 Objetivo:
+Me tornar um desenvolvedor sólido, criando soluções úteis e inteligentes.
 
-- Git e Github
-- React
-- Java Script
-- Html e Css
+---
 
-## Meus contatos
-
-- Twitter @djpajeofficial
-- Github @robsondv
-- Instagram @djpajeofficial
-- Facebook dpaje.silva
-- Email Contato@locutorrobsoncosta.com.br
+✨ “Começando pequeno, pensando grande.”
