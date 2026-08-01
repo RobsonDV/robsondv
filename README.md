@@ -1,23 +1,28 @@
-# 👋 Olá, eu sou o Robson!
+👋 Olá, eu sou o Robson Costa
+🚀 Desenvolvedor Full-Cycle & Especialista em Automação
+Focado em engenharia de software e automações aplicadas ao ecossistema de comunicação, rádio e operações digitais.
 
-🚀 Iniciando minha jornada no desenvolvimento, com muita vontade de aprender, evoluir e construir projetos reais.
+💡 O que eu construo:
 
-💡 Atualmente focado em:
-- Aprender programação na prática
-- Desenvolver projetos próprios
-- Evoluir todos os dias, um passo de cada vez
+Soluções para Mídia: Aplicativos (Web, Desktop e Mobile) focados em gestão de áudio, relacionamento com a audiência e distribuição de conteúdo.
 
-🎧 Vibecoding: gosto de codar com foco, consistência e no flow — transformando ideias em código.
+Automação Avançada: Criação de fluxos de trabalho invisíveis e eficientes para operações diárias utilizando n8n, APIs e processamento de dados.
 
-🛠️ Tecnologias em aprendizado:
-- Python
-- JavaScript
-- Automações (N8N, APIs)
-- Web (HTML, CSS)
+Inteligência Artificial: Integração de IA e LLMs em pipelines de produção e sistemas internos para ganho de escala e agilidade.
+
+🛠️ Stack & Ferramentas:
+
+Linguagens & Frameworks: Python, Django, Flet, Flutter
+
+Automação & Scraping: n8n, Playwright, APIs RESTful, Webhooks
+
+Banco de Dados: Supabase, PostgreSQL
+
+Ecossistema IA: Agentes de IA, processamento local e integrações com modelos de linguagem.
+
+🎧 Vibecoding: Construindo arquiteturas robustas e escaláveis no flow — transformando os gargalos operacionais da comunicação em código eficiente.
 
 📈 Objetivo:
-Me tornar um desenvolvedor sólido, criando soluções úteis e inteligentes.
+Criar soluções tecnológicas inteligentes que otimizem operações, reduzam custos e conectem plataformas digitais com a dinâmica em tempo real da comunicação.
 
----
-
-✨ “Começando pequeno, pensando grande.”
+✨ “Tecnologia aplicada para conectar pessoas e escalar operações.”
